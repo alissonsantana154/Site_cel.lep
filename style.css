@@ -1,0 +1,51 @@
+/* personalização barra de navegação */
+.active{
+  background-color: #007bff;
+}
+
+.nav-link{
+  color: white !important;
+}
+
+.nav-link:hover:not(.active), .dropdown-item:hover{
+  background-color: #7952b3;
+  color: white !important;
+}
+
+footer{
+  height: 60px;
+}
+
+/* criar classe bg-imagem */
+.bg-imagem{
+  /* utilizamos a unidade de viewport para dar o efeito de reponsividade */
+  height: 48vw;
+  background-image: url(https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-imagem p{
+  font-size: 4vw;
+  text-shadow: 4px 4px 8px black;
+}
+
+.mt-60{
+  margin-top: 60px;
+}
+
+/* estilo agenda */
+
+#agenda th{
+  font-size: 1.5vw; 
+}
+
+#agenda td{
+  height: 100px;
+  /* 100% / 7 */
+  width: 14.29%;
+}
+
+#agenda td.bg-info{
+  color: white;
+}
