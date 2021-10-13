@@ -9,12 +9,12 @@ O Site Cel.lep e uma replica, ele é uma aplicação Front end que fizemos no cu
 
  
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) 
+![Mobile 1]() 
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1]()
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2]()
 
 # Tecnologias utilizadas
 
