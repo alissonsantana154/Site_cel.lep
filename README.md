@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Site Cel.lep 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/alissonsantana154/Site_cel.lep/blob/master/LICENSE) 
 
 # Sobre o projeto
@@ -9,7 +9,7 @@ O Site Cel.lep e uma replica, ele é uma aplicação Front end que fizemos no cu
 
  
 ## Layout mobile
-![Mobile 1]() 
+<img  src="">
 
 ## Layout web
 ![Web 1]()
@@ -18,8 +18,8 @@ O Site Cel.lep e uma replica, ele é uma aplicação Front end que fizemos no cu
 
 # Tecnologias utilizadas
 
-## Front end
-- HTML / CSS / JS /
+
+- HTML 
 - CSS
 - JavaSript
 - Bootstrap
