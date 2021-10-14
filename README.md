@@ -9,12 +9,12 @@ O Site Cel.lep e uma replica, ele é uma aplicação Front end que fizemos no cu
 
  
 ## Layout mobile
-<img  src="">
+
+![Web 1](https://media3.giphy.com/media/fbPsH6naNCnXJggzgm/giphy.gif?cid=790b7611037051d33727857261b19caee78832ab6e059ee4&rid=giphy.gif&ct=g)
 
 ## Layout web
-![Web 1]()
 
-![Web 2]()
+![Web 1](https://media3.giphy.com/media/MwjFVF4o4FGisxYYSQ/giphy.gif?cid=790b761171bf7ec0da988974d01dc1a6b63b4e41dc04bd75&rid=giphy.gif&ct=g)
 
 # Tecnologias utilizadas
 
