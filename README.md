@@ -1,7 +1,7 @@
 # Site Cel.lep 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/alissonsantana154/Site_cel.lep/blob/master/LICENSE) 
 
-# Sobre o projeto
+## Sobre o projeto
 
 https://alissonsantana154.github.io/Site_cel.lep/
 
@@ -16,7 +16,7 @@ O Site Cel.lep e uma replica, ele é uma aplicação Front end que fizemos no cu
 
 ![Web 1](https://media3.giphy.com/media/MwjFVF4o4FGisxYYSQ/giphy.gif?cid=790b761171bf7ec0da988974d01dc1a6b63b4e41dc04bd75&rid=giphy.gif&ct=g)
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 - HTML 
@@ -25,7 +25,7 @@ O Site Cel.lep e uma replica, ele é uma aplicação Front end que fizemos no cu
 - Bootstrap
 - jQuery
 
-# Autor
+## Autor
 Álisson josé de Santana
 
 https://www.linkedin.com/in/%C3%A1lisson-santana-frontend/
